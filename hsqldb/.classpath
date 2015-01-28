@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="doc/verbatim/src"/>
+	<classpathentry kind="src" path="integration/extAuthWithSpring/src"/>
+	<classpathentry kind="src" path="integration/hibernate_3_3_1/src"/>
+	<classpathentry kind="src" path="integration/hibernate/src"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="build/gradle-ivyxml-plugin-0.3.2.jar"/>
+	<classpathentry kind="lib" path="build/gradle-javaPropFile-plugin-0.6.0.jar"/>
+	<classpathentry kind="lib" path="build/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="lib/hsqldb.jar"/>
+	<classpathentry kind="lib" path="lib/sqltool.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/3"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
